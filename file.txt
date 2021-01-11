@@ -1,0 +1,2 @@
+este archivo lo estoy agragando desde la consola con git
+
